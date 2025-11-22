@@ -54,13 +54,6 @@ Never-seen anomalies (unsupervised)
 
 🏆 Model Performance
 Model	Precision	Recall	F1	ROC-AUC	PR-AUC	Accuracy
-Rule-Based	
-Random Forest	
-XGBoost	
-Autoencoder	
-Hybrid Model	
-🔥 Hybrid model performs best across all metrics.
-
 
 🔥 Hybrid model performs best across all metrics.
 
