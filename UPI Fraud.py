@@ -52,7 +52,7 @@ sns.set_theme(style="whitegrid")
 st.set_page_config(
     page_title="Fraud-Sight — Hybrid UPI Fraud Detection", layout="wide"
 )
-st.title("Fraud-Sight — Hybrid UPI Fraud Detection")
+st.title("Fraud-Sight — UPI Fraud Detection")
 
 
 # ----------------- Helpers -----------------
@@ -838,3 +838,4 @@ You can extend this by:
 
     st.subheader("Quick Dataset Glimpse")
     st.dataframe(df.head(50), use_container_width=True)
+
